@@ -25,7 +25,10 @@ banner
 
 | Smart NavMesh GPS | Advanced ESP (Boxes & Lines) |
 | :---: | :---: |
-| ![GPS](https://via.placeholder.com/400x225/222/00ffff?text=Drop+GPS+Screenshot+Here) | ![ESP](https://via.placeholder.com/400x225/222/00ff00?text=Drop+ESP+Screenshot+Here) |
+| ![GPS]<img width="2559" height="1439" alt="gps" src="https://github.com/user-attachments/assets/599cad19-86a9-4e1b-bf0a-f915d5ec09cc" />
+
+| ![ESP]<img width="2559" height="1439" alt="esp" src="https://github.com/user-attachments/assets/c3e66896-a938-4ce8-a114-7647d38f76e3" />
+
 
 
 ---
