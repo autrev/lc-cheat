@@ -4,7 +4,8 @@ A sleek and powerful client-side utility mod pack specifically developed for Let
 
 No more getting lost in dark corridors, running out of battery, or dealing with low-value scrap! This mod provides a tactical advantage without ruining the game's original atmosphere.
 
-banner
+<img width="4160" height="1024" alt="Gemini_Generated_Image_l4w4ydl4w4ydl4w4" src="https://github.com/user-attachments/assets/918576bf-2ebc-497a-aa83-9c0f8c5cfda8" />
+
 
 ## ✨ Features
 
