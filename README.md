@@ -1,8 +1,9 @@
-# 🚀 UXAN Lethal Company Cheat
+# 🚀 UXAN Lethal Company Cheats
 
-A sleek and powerful client-side utility mod pack specifically developed for Lethal Company. 
+A sleek, powerful, and multiplayer-ready client-side utility mod specifically developed for Lethal Company. 
 
-No more getting lost in dark corridors, running out of battery, or dealing with low-value scrap! This mod provides a tactical advantage without ruining the game's original atmosphere.
+No more getting lost in dark corridors, running out of battery, or dealing with low-value scrap! This mod provides a massive tactical advantage and includes exclusive network exploits for public servers.
+
 
 <img width="4160" height="1024" alt="Gemini_Generated_Image_l4w4ydl4w4ydl4w4" src="https://github.com/user-attachments/assets/918576bf-2ebc-497a-aa83-9c0f8c5cfda8" />
 
@@ -10,15 +11,19 @@ No more getting lost in dark corridors, running out of battery, or dealing with 
 ## ✨ Features
 
 ### 🕹️ Active Abilities (Keybinds)
-* **Smart GPS / NavMesh Line (F10):** Draws a neon blue guide line directly to the nearest exit door when you are lost inside the facility, or directly to the ship when you are lost in the fog outside.
-* **Advanced ESP (F9):** * 🟢 **Scrap:** Green boxes and snaplines showing the value and distance of items within 20 meters.
-    * 🔴 **Enemies:** Red boxes showing the type and distance of creatures within 60 meters.
-* **Scrap Value Hack (F11):** Instantly updates the value of any scrap you are holding in your hand to **$1500**. (Added for abusing other mods)
+* **Smart GPS / NavMesh Line (F10):** Draws a neon blue laser guide directly to the nearest exit door when lost inside, or directly to the ship when lost outside. *(100% Client-Side Safe)*
+* **Advanced ESP (F9):** *(100% Client-Side Safe)*
+  * 🟢 **Scrap:** Green boxes and snaplines showing the value and distance of items within 20 meters.
+  * 🔴 **Enemies:** Red boxes showing the type and distance of creatures within 60 meters.
+* **Scrap Value Hack (F11):** Instantly updates the value of any scrap you are holding to **$1500**. *(Note: Requires Host privileges to sync value with the ship's desk).*
 
 ### 🛡️ Passive Abilities (Always Active)
-* **Infinite Battery:** The battery life of all battery-powered items like flashlights, walkie-talkies, and jetpacks is locked to 100% at all times.
-* **Half Fall Damage:** Intercepts the game's damage engine to reduce all fall damage by exactly 50%. (There's no need to get caught cheating.)
-* **Custom Crosshair:** A sleek white '+' sign added to the exact center of the screen, making shovel hits and item throws much more accurate.
+* **🎰 The Casino Heist (ATM Exploit):** If the server is running the `LethalCasino` mod, this cheat intercepts the network RPCs. Using the ATM to "Buy Chips" will silently request negative chips, bypassing server checks and instantly adding **$35000+** to the value of your held scrap! *(Works on any server).*
+* **🔨 Thor's Hammer:** Shovel hit force is cranked up to 100. One-tap Thumpers, Spiders, and even Eyeless Dogs. *(Works perfectly on multiplayer servers).*
+* **⚡ Flash Speed & Infinite Stamina:** Sprint speed is multiplied by 3.5x, and your stamina never depletes. Mimics and other fast monsters don't stand a chance.
+* **🔋 Infinite Battery:** All battery-powered items (flashlights, walkie-talkies, jetpacks) are permanently locked to 100% charge locally.
+* **🪂 Half Fall Damage:** Intercepts the game's physics engine to reduce all fall damage taken by exactly 50%.
+* **🎯 Custom Crosshair:** A sleek white '+' sign added to the center of the screen, making shovel hits and item throws flawlessly accurate.
 
 ---
 
@@ -27,7 +32,6 @@ No more getting lost in dark corridors, running out of battery, or dealing with 
 | Smart NavMesh GPS | Advanced ESP (Boxes & Lines) |
 | :---: | :---: |
 | <img width="2559" height="1439" alt="gps" src="https://github.com/user-attachments/assets/599cad19-86a9-4e1b-bf0a-f915d5ec09cc" /> | <img width="2559" height="1439" alt="esp" src="https://github.com/user-attachments/assets/c3e66896-a938-4ce8-a114-7647d38f76e3" />
-
 
 
 ---
